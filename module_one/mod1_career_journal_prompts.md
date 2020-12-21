@@ -109,27 +109,50 @@ Week 3: [Link here to your gist]
 - [ ] (partially complete)
 - [ ] (not started)
 
-If you will not be able to complete your journal this week, please provide an update for the Career Dev team on when you'll have it completed here (remember to reflect on what you have control over, what you want to try differently this week, and what habits you can utilize to get back on track): 
+If you will not be able to complete your journal this week, please provide an update for the Career Dev team on when you'll have it completed here (remember to reflect on what you have control over, what you want to try differently this week, and what habits you can utilize to get back on track):
+Ideas here are adapted fromÂ Atomic Habits by James Clear
+Habits of a Software Developer
+What do you think are the traits of a good software developer? What are they like in the workplace? What would you as a co-worker think of this person?
+Habits of a good software developer include: patience, taking questions slow until they understand what is being asked, collaborative, listening, disciplined, persistent problem solver, responsive, detail oriented, asking for help, and being uncomfortable.
+If I were to see a person with these traits, I would think of them as fantastic software developers and regular people. They are given a challenge and can use their resources to figure it out.  Additionally, they will keep their code clean so others can use it!
+What are the habits that this person demonstrates to embody the identity of a software developer?
+Persistence and discipline. As a developer, you are tasked with doing the impossible work. Problems may be challenging, and you may need to be focused on the direct topic to move forward. Besides that, chances of being uncomfortable are possible, and you may need ned to try new things or ask for help! In addition to giving support to other developers, like you may have received help.
+Who do you want to be as a software developer? What kind of behaviors do you already have in place to be that person? What actions would you need to put into place? How will you do that?
+I have other motives to be a software developer/engineer. I thrive off of travel and dance. I want to continue this lifestyle post-pandemic. But a s a dancer, and someone how has the privilege to travel, you have a lot of traits that can help.  I have perseverance and determination. I don't give up, if something is hard. I keep on trying, even If I fail multiple times. As a performer, I never want to look like I am struggling on stage. The hours that I put into mastery is a lot. I go through multiple rehearsals before it is ready to be delivered in front of stage. I have a feeling I want to do the same with developing before it reaches a customer.  With travel, you become better at listening, and getting a work view.  You build habits that help you resonate with others.  You become more empathetic.  
+For me to succeed, I do need to become better at asking questions. In an online world, you need to format a question to be well understood, since it cant be seen then and there with a colleague next to you.  I have to collaborate more, offer my help, so I can help teach.  I also need to work a lot on typos and spacing.  I have millions of those errors that break my code. 
+Working on the 1st Law of Behavior Change: Make it Obvious
+Bring self-awareness to your current habits by making a Habits Scorecard. Make a list of your daily routines (examples: wake up, turn off alarm, check phone, etc.) as a way to bring awareness to what you do. Then, decide how effective that habit is for you and your goal of becoming a software developer. Put a + next to habits that are effective; put a - next to habits that are not effective; put a = next to habits that are neutral.
+Wakeup +
+Snooze -
+Wakeup +
+Read news +
+Get ready for day (hygiene) +
+Check phone
+Class +
+Lunch (working lunch) -
+Check phone
+Class +
+Nap +
+Turing Work +
+Family time +
+Work -
+Phone time -
+Sleep +
+ 
+Pick 1 new habit you'd like to build and create an implementation intention following this template:
+Background, I worked or Peloton before Turing. I was lifting bikes up and down stairs all day. I was taking a lot of dance classes. I was physically fit. It all deteriorated as I moved life to Mexico for an unidentified time.
 
-Ideas here are adapted from [Atomic Habits by James Clear](https://bookshop.org/books/atomic-habits-an-easy-proven-way-to-build-good-habits-break-bad-ones/9780735211292)
+"I will Exercise at 12 pm for 25 minutes in an open room."
+"After exercise, I will eat lunch outside, without a phone, so I get enough sun and reduce screen time."
 
-**Habits of a Software Developer**
-* What do you think are the traits of a good software developer? What are they like in the workplace? What would you as a co-worker think of this person?
+Design your environment for success: what changes could you make in your space to better implement your habit? 
+I have an excellent environment to work out. It is a matter of creating space to workout. I have never sat down so much until Turing. And I need to reframe my thinking that exercise will help me physically and mentally.
+How could you remove any triggers for bad habits? How will you implement these changes?
+I can wake up 30 minutes earlier to get ready for school. Write down my questions, prep for the day. That way, I don't dedicate my lunch to a working lunch.  If I must dedicate my lunch to a working lunch, then I can take a dance class after.  It is fun, and active.  May not be the most intense physically, but also retains my muscle and coordination memory.
+Respond after a few days of this implementation: What are your results? How do you feel about this method? How will you move forward with this habit?
+I did not work out this week. But I did start again on Friday. My legs are sore from a simple work out. I feel much healthier. I have not been sleeping well because I forgot to disconnect my wifi. And I learned that it affects me. 
+Additional Optional Reading:Â The Five Triggers That Make New Habits Stick
 
-* What are the habits that this person demonstrates to embody the identity of a software developer?
-
-* Who do you want to be as a software developer? What kind of behaviors do you already have in place to be that person? What behaviors would you need to put into place? How will you do that?
-
-**Working on the 1st Law of Behavior Change: Make it Obvious**
-* Bring self-awareness to your current habits by making a Habits Scorecard. Make a list of your daily habits (examples: wake up, turn off alarm, check phone, etc.) as a way to bring awareness to what you do. Then, decide how effective that habit is for you and your goal of becoming a software developer. Put a + next to habits that are effective; put a - next to habits that are not effective; put a = next to habits that are neutral. 
-
-* Pick 1 new habit you'd like to build and create an implementation intention following this template: "I will [BEHAVIOR] at [TIME] in [LOCATION]." Then, stack the habit onto something you already do: "After [CURRENT HABIT], I will [NEW HABIT]." (Hint: make this highly specific and immediately actionable)
-
-* Design your environment for success: what changes could you make in your space to better implement your habit? How could you remove any triggers for bad habits? How will you implement these changes? 
-
-* Respond after a few days of this implementation: What are your results? How do you feel about this method? How will you move forward with this habit? 
-
-Additional Optional Reading: [The Five Triggers That Make New Habits Stick](https://jamesclear.com/habit-triggers)
 
 ### Mod 1 Week 4: Creating Your Vision, Part I <a name="week-4"></a>
 Answer the below questions in a separate gist and link them into your career journal using this template:
