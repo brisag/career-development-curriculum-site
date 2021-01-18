@@ -28,14 +28,14 @@ Week 3: [https://gist.github.com/brisag/8e177f5decdda933d307bc4ad6ef5394]
 
 If you will not be able to complete your journal this week, please provide an update for the Career Dev team on when you'll have it completed here: 
 
-Week 4: [Link here to your gist]
+Week 4: [https://gist.github.com/brisag/8e177f5decdda933d307bc4ad6ef5394]
 - [ ] (completed)
 - [ ] (partially complete)
 - [ ] (not started)
 
 If you will not be able to complete your journal this week, please provide an update for the Career Dev team on when you'll have it completed here: 
 
-Week 5: [Link here to your gist]
+Week 5: [https://gist.github.com/brisag/8e177f5decdda933d307bc4ad6ef5394]
 - [ ] (completed)
 - [ ] (partially complete)
 - [ ] (not started)
